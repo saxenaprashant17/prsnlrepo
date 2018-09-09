@@ -8,7 +8,7 @@ public class CopyOpportunity {
             return;
         }
         // return;
-        Opportunity dest = dests.get(0);
+        Opportunity dest = dests.get(0); // hnn
         
         /* RR */
         List<OpportunityContactRole> oppContacts = [Select ID, ContactId, OpportunityId, IsPrimary, IsDeleted, Role from OpportunityContactRole Where OpportunityId = :src.Id];
