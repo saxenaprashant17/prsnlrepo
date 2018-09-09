@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Flow xmlns="http://soap.sforce.com/2006/04/metadata">
+    <interviewLabel>Creazione Madre da Opportunità {!$Flow.CurrentDateTime}</interviewLabel>
+    <label>Creazione Madre</label>
+    <processType>Flow</processType>
+    <recordCreates>
+        <name>Creare_account_madre</name>
+        <label>Creare account madre</label>
+        <locationX>362</locationX>
+        <locationY>104</locationY>
+        <connector>
+            <targetReference>Madre_creata</targetReference>
+        </connector>
+        <inputAssignments>
+            <field>Business_Unit__c</field>
+            <value>
+                <stringValue>SS</stringValue>
+            </value>
+        </inputAssignments>
+        <inputAssignments>
+            <field>FirstName</field>
+            <value>
+                <elementReference>Nome_madre</elementReference>
+            </value>
+        </inputAssignments>
+        <inputAssignments>
+            <field>LastName</field>
+            <value>
+                <elementReference>Cognome_madre</elementReference>
+            </value>
+        </inputAssignments>
+        <inputAssignments>
+            <field>PersonEmail</field>
+            <value>
+                <elementReference>Email_madre</elementReference>
+            </value>
+        </inputAssignments>
+        <inputAssignments>
+            <field>PersonMobilePhone</field>
+            <value>
+                <elementReference>Telefono_madre</elementReference>
+            </value>
+        </inputAssignments>
+        <inputAssignments>
+            <field>Phone</field>
+            <value>
+                <elementReference>Telefono_madre</elementReference>
+            </value>
+        </inputAssignments>
+        <inputAssignments>
+            <field>RecordTypeId</field>
+            <value>
+                <stringValue>0124E0000004Num</stringValue>
+            </value>
+        </inputAssignments>
+        <inputAssignments>
+            <field>Type</field>
+            <value>
+                <stringValue>Prospect</stringValue>
+            </value>
+        </inputAssignments>
+        <object>Account</object>
+    </recordCreates>
+    <screens>
+        <name>Inserisci_madre_per_opportunit</name>
+        <label>Inserisci madre per opportunità</label>
+        <locationX>153</locationX>
+        <locationY>103</locationY>
+        <allowBack>true</allowBack>
+        <allowFinish>true</allowFinish>
+        <allowPause>false</allowPause>
+        <connector>
+            <targetReference>Creare_account_madre</targetReference>
+        </connector>
+        <fields>
+            <name>Nome_madre</name>
+            <dataType>String</dataType>
+            <fieldText>Nome madre</fieldText>
+            <fieldType>InputField</fieldType>
+            <isRequired>true</isRequired>
+        </fields>
+        <fields>
+            <name>Cognome_madre</name>
+            <dataType>String</dataType>
+            <fieldText>Cognome madre</fieldText>
+            <fieldType>InputField</fieldType>
+            <isRequired>true</isRequired>
+        </fields>
+        <fields>
+            <name>Telefono_madre</name>
+            <dataType>String</dataType>
+            <fieldText>Telefono madre</fieldText>
+            <fieldType>InputField</fieldType>
+            <isRequired>true</isRequired>
+        </fields>
+        <fields>
+            <name>Email_madre</name>
+            <dataType>String</dataType>
+            <fieldText>Email madre</fieldText>
+            <fieldType>InputField</fieldType>
+            <isRequired>false</isRequired>
+        </fields>
+        <showFooter>true</showFooter>
+        <showHeader>true</showHeader>
+    </screens>
+    <screens>
+        <name>Madre_creata</name>
+        <label>Madre creata</label>
+        <locationX>545</locationX>
+        <locationY>106</locationY>
+        <allowBack>true</allowBack>
+        <allowFinish>true</allowFinish>
+        <allowPause>true</allowPause>
+        <fields>
+            <name>Messaggiodiconferma</name>
+            <fieldText>Madre creata correttamente puoi chiudere la scheda ora</fieldText>
+            <fieldType>DisplayText</fieldType>
+        </fields>
+        <showFooter>true</showFooter>
+        <showHeader>true</showHeader>
+    </screens>
+    <startElementReference>Inserisci_madre_per_opportunit</startElementReference>
+    <status>Draft</status>
+</Flow>

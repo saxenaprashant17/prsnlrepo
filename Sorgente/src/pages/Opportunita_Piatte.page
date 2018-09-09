@@ -1,0 +1,6 @@
+<apex:page standardController="Account">
+<b>Opportunità </b>
+<apex:repeat var="opp" value="{!account.Opportunities}" first="0" rows="1">{!opp.Name}</apex:repeat>
+<apex:repeat var="opp" value="{!account.Opportunities}" first="1">, {!opp.Name}
+</apex:repeat>
+</apex:page>

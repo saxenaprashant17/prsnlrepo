@@ -1,0 +1,6 @@
+<apex:page controller="CA_Unsubscribe_Email_Class">
+	<apex:form >
+	
+		<apex:commandButton action="{!UpdateObjectUnsubscribe}" value="Unsubscribe"/>
+	</apex:form>
+</apex:page>

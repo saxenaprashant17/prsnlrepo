@@ -1,0 +1,790 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ApexTimestampIndex">
+    <index-record>
+      <option name="fileId" value="01p58000008jQPUAA2" />
+      <option name="fileName" value="classes/UpdateTrackingData.cls" />
+      <option name="lastModifiedDate" value="1491395949000" />
+    </index-record>
+    <index-record>
+      <option name="fileId" value="01p58000004k7YKAAY" />
+      <option name="fileName" value="classes/MailRicezioneContratto.cls" />
+      <option name="lastModifiedDate" value="1491395943000" />
+    </index-record>
+    <index-record>
+      <option name="fileId" value="01p58000008jQOyAAM" />
+      <option name="fileName" value="classes/TwilioTRTest.cls" />
+      <option name="lastModifiedDate" value="1491395948000" />
+    </index-record>
+    <index-record>
+      <option name="fileId" value="01p58000004k7Y5AAI" />
+      <option name="fileName" value="classes/CopyOpportunity.cls" />
+      <option name="lastModifiedDate" value="1491395942000" />
+    </index-record>
+    <index-record>
+      <option name="fileId" value="01p58000008jQNvAAM" />
+      <option name="fileName" value="classes/TestTriggerLeadConversion.cls" />
+      <option name="lastModifiedDate" value="1491395944000" />
+    </index-record>
+    <index-record>
+      <option name="fileId" value="01p58000008jQPAAA2" />
+      <option name="fileName" value="classes/Twilio_TestApplication.cls" />
+      <option name="lastModifiedDate" value="1491395948000" />
+    </index-record>
+    <index-record>
+      <option name="fileId" value="01p58000008jQPGAA2" />
+      <option name="fileName" value="classes/Twilio_TestMedia.cls" />
+      <option name="lastModifiedDate" value="1491395949000" />
+    </index-record>
+    <index-record>
+      <option name="fileId" value="01p58000008jQOZAA2" />
+      <option name="fileName" value="classes/TwilioParticipant.cls" />
+      <option name="lastModifiedDate" value="1491395947000" />
+    </index-record>
+    <index-record>
+      <option name="fileId" value="01p58000008jQO4AAM" />
+      <option name="fileName" value="classes/TwilioAvailablePhoneNumber.cls" />
+      <option name="lastModifiedDate" value="1491395945000" />
+    </index-record>
+    <index-record>
+      <option name="fileId" value="01p0Q0000004Q17QAE" />
+      <option name="fileName" value="classes/CA_Unsubscribe_Email_Class.cls" />
+      <option name="lastModifiedDate" value="1536320754000" />
+    </index-record>
+    <index-record>
+      <option name="fileId" value="01p58000009FWSMAA4" />
+      <option name="fileName" value="classes/TestPraticaWS.cls" />
+      <option name="lastModifiedDate" value="1532787607000" />
+    </index-record>
+    <index-record>
+      <option name="fileId" value="01p58000008jQOoAAM" />
+      <option name="fileName" value="classes/TwilioTRActivities.cls" />
+      <option name="lastModifiedDate" value="1491395947000" />
+    </index-record>
+    <index-record>
+      <option name="fileId" value="01p58000008jQOgAAM" />
+      <option name="fileName" value="classes/TwilioRestClient.cls" />
+      <option name="lastModifiedDate" value="1491395947000" />
+    </index-record>
+    <index-record>
+      <option name="fileId" value="01p58000004k7YOAAY" />
+      <option name="fileName" value="classes/TestCopyOpportunity.cls" />
+      <option name="lastModifiedDate" value="1491395944000" />
+    </index-record>
+    <index-record>
+      <option name="fileId" value="01p58000008jQOQAA2" />
+      <option name="fileName" value="classes/TwilioMemberList.cls" />
+      <option name="lastModifiedDate" value="1491395946000" />
+    </index-record>
+    <index-record>
+      <option name="fileId" value="01p58000004k7Y9AAI" />
+      <option name="fileName" value="classes/MailCertificatiEmiliaRomagna.cls" />
+      <option name="lastModifiedDate" value="1491395942000" />
+    </index-record>
+    <index-record>
+      <option name="fileId" value="01p58000008jQOhAAM" />
+      <option name="fileName" value="classes/TwilioRestException.cls" />
+      <option name="lastModifiedDate" value="1491395947000" />
+    </index-record>
+    <index-record>
+      <option name="fileId" value="01p58000008jQPVAA2" />
+      <option name="fileName" value="classes/Utilities.cls" />
+      <option name="lastModifiedDate" value="1512558740000" />
+    </index-record>
+    <index-record>
+      <option name="fileId" value="01p58000004k7YAAAY" />
+      <option name="fileName" value="classes/MailCertificatiOP.cls" />
+      <option name="lastModifiedDate" value="1491395942000" />
+    </index-record>
+    <index-record>
+      <option name="fileId" value="01p58000008jQPPAA2" />
+      <option name="fileName" value="classes/Twilio_TestRestExceptn.cls" />
+      <option name="lastModifiedDate" value="1491395949000" />
+    </index-record>
+    <index-record>
+      <option name="fileId" value="01p58000004k7Y6AAI" />
+      <option name="fileName" value="classes/ImpostaAgenteOpportunita.cls" />
+      <option name="lastModifiedDate" value="1491395942000" />
+    </index-record>
+    <index-record>
+      <option name="fileId" value="01p58000008jQOJAA2" />
+      <option name="fileName" value="classes/TwilioIterator.cls" />
+      <option name="lastModifiedDate" value="1491395946000" />
+    </index-record>
+    <index-record>
+      <option name="fileId" value="01p58000004k7YSAAY" />
+      <option name="fileName" value="classes/TestStatus.cls" />
+      <option name="lastModifiedDate" value="1516213594000" />
+    </index-record>
+    <index-record>
+      <option name="fileId" value="01p58000008jQNzAAM" />
+      <option name="fileName" value="classes/TwilioAccountList.cls" />
+      <option name="lastModifiedDate" value="1491395945000" />
+    </index-record>
+    <index-record>
+      <option name="fileId" value="01p58000008jQP0AAM" />
+      <option name="fileName" value="classes/TwilioTRWorkerList.cls" />
+      <option name="lastModifiedDate" value="1491395948000" />
+    </index-record>
+    <index-record>
+      <option name="fileId" value="01p58000008jQPHAA2" />
+      <option name="fileName" value="classes/Twilio_TestMember.cls" />
+      <option name="lastModifiedDate" value="1491395949000" />
+    </index-record>
+    <index-record>
+      <option name="fileId" value="01p58000008jQOtAAM" />
+      <option name="fileName" value="classes/TwilioTRRestClient.cls" />
+      <option name="lastModifiedDate" value="1491395948000" />
+    </index-record>
+    <index-record>
+      <option name="fileId" value="01p0Q0000004QRPQA2" />
+      <option name="fileName" value="classes/SurveyController.cls" />
+      <option name="lastModifiedDate" value="1536512501000" />
+    </index-record>
+    <index-record>
+      <option name="fileId" value="01p58000008jQNsAAM" />
+      <option name="fileName" value="classes/SiteLoginControllerTest.cls" />
+      <option name="lastModifiedDate" value="1491395944000" />
+    </index-record>
+    <index-record>
+      <option name="fileId" value="01p58000008jQNhAAM" />
+      <option name="fileName" value="classes/ChangePasswordControllerTest.cls" />
+      <option name="lastModifiedDate" value="1491395942000" />
+    </index-record>
+    <index-record>
+      <option name="fileId" value="01p58000008jQNyAAM" />
+      <option name="fileName" value="classes/TwilioAccount.cls" />
+      <option name="lastModifiedDate" value="1491395945000" />
+    </index-record>
+    <index-record>
+      <option name="fileId" value="01p58000008jQOxAAM" />
+      <option name="fileName" value="classes/TwilioTRTaskQueueList.cls" />
+      <option name="lastModifiedDate" value="1491395948000" />
+    </index-record>
+    <index-record>
+      <option name="fileId" value="01p58000004k7YIAAY" />
+      <option name="fileName" value="classes/MailRecessoKitNonIntegro.cls" />
+      <option name="lastModifiedDate" value="1491395943000" />
+    </index-record>
+    <index-record>
+      <option name="fileId" value="01p58000008jQOmAAM" />
+      <option name="fileName" value="classes/TwilioSms.cls" />
+      <option name="lastModifiedDate" value="1491395947000" />
+    </index-record>
+    <index-record>
+      <option name="fileId" value="01p58000008jQNnAAM" />
+      <option name="fileName" value="classes/MyProfilePageControllerTest.cls" />
+      <option name="lastModifiedDate" value="1491395943000" />
+    </index-record>
+    <index-record>
+      <option name="fileId" value="01p58000008jQNrAAM" />
+      <option name="fileName" value="classes/SearchdupesController.cls" />
+      <option name="lastModifiedDate" value="1491395944000" />
+    </index-record>
+    <index-record>
+      <option name="fileId" value="01p58000008jQOuAAM" />
+      <option name="fileName" value="classes/TwilioTRTask.cls" />
+      <option name="lastModifiedDate" value="1491395948000" />
+    </index-record>
+    <index-record>
+      <option name="fileId" value="01p58000008jQOdAAM" />
+      <option name="fileName" value="classes/TwilioRecording.cls" />
+      <option name="lastModifiedDate" value="1491395947000" />
+    </index-record>
+    <index-record>
+      <option name="fileId" value="01p58000009FSMoAAO" />
+      <option name="fileName" value="classes/TestOppTriggers.cls" />
+      <option name="lastModifiedDate" value="1529746076000" />
+    </index-record>
+    <index-record>
+      <option name="fileId" value="01p58000008jQOiAAM" />
+      <option name="fileName" value="classes/TwilioRestResponse.cls" />
+      <option name="lastModifiedDate" value="1491395947000" />
+    </index-record>
+    <index-record>
+      <option name="fileId" value="01p58000008jQNiAAM" />
+      <option name="fileName" value="classes/DHLController.cls" />
+      <option name="lastModifiedDate" value="1491395942000" />
+    </index-record>
+    <index-record>
+      <option name="fileId" value="01p58000008jQO5AAM" />
+      <option name="fileName" value="classes/TwilioAvailablePhoneNumberList.cls" />
+      <option name="lastModifiedDate" value="1491395945000" />
+    </index-record>
+    <index-record>
+      <option name="fileId" value="01p58000008lE5dAAE" />
+      <option name="fileName" value="classes/VerificaOrdine.cls" />
+      <option name="lastModifiedDate" value="1491395950000" />
+    </index-record>
+    <index-record>
+      <option name="fileId" value="01p58000008jQNtAAM" />
+      <option name="fileName" value="classes/SiteRegisterControllerTest.cls" />
+      <option name="lastModifiedDate" value="1491395944000" />
+    </index-record>
+    <index-record>
+      <option name="fileId" value="01p58000008jQ9LAAU" />
+      <option name="fileName" value="classes/SiteRegisterController.cls" />
+      <option name="lastModifiedDate" value="1491395944000" />
+    </index-record>
+    <index-record>
+      <option name="fileId" value="01p58000008jQOKAA2" />
+      <option name="fileName" value="classes/TwilioLookupsPhoneNumber.cls" />
+      <option name="lastModifiedDate" value="1491395946000" />
+    </index-record>
+    <index-record>
+      <option name="fileId" value="01p58000008jQOMAA2" />
+      <option name="fileName" value="classes/TwilioLookupsTest.cls" />
+      <option name="lastModifiedDate" value="1491395946000" />
+    </index-record>
+    <index-record>
+      <option name="fileId" value="01p58000009cR8hAAE" />
+      <option name="fileName" value="classes/TestRighePazientiGinecologo.cls" />
+      <option name="lastModifiedDate" value="1527516209000" />
+    </index-record>
+    <index-record>
+      <option name="fileId" value="01p58000008lE5bAAE" />
+      <option name="fileName" value="classes/ButtonResetFlagGuida.cls" />
+      <option name="lastModifiedDate" value="1491395942000" />
+    </index-record>
+    <index-record>
+      <option name="fileId" value="01p58000008jQOjAAM" />
+      <option name="fileName" value="classes/TwilioSandbox.cls" />
+      <option name="lastModifiedDate" value="1491395947000" />
+    </index-record>
+    <index-record>
+      <option name="fileId" value="01p58000008jQOXAA2" />
+      <option name="fileName" value="classes/TwilioOutgoingCallerIdList.cls" />
+      <option name="lastModifiedDate" value="1491395947000" />
+    </index-record>
+    <index-record>
+      <option name="fileId" value="01p58000008jQOrAAM" />
+      <option name="fileName" value="classes/TwilioTRReservation.cls" />
+      <option name="lastModifiedDate" value="1491395948000" />
+    </index-record>
+    <index-record>
+      <option name="fileId" value="01p58000008jQO9AAM" />
+      <option name="fileName" value="classes/TwilioCapability.cls" />
+      <option name="lastModifiedDate" value="1491395945000" />
+    </index-record>
+    <index-record>
+      <option name="fileId" value="01p58000008jQPIAA2" />
+      <option name="fileName" value="classes/Twilio_TestMessage.cls" />
+      <option name="lastModifiedDate" value="1491395949000" />
+    </index-record>
+    <index-record>
+      <option name="fileId" value="01p58000008jQOYAA2" />
+      <option name="fileName" value="classes/TwilioParser.cls" />
+      <option name="lastModifiedDate" value="1491395947000" />
+    </index-record>
+    <index-record>
+      <option name="fileId" value="01p58000008jQOHAA2" />
+      <option name="fileName" value="classes/TwilioIncomingPhoneNumber.cls" />
+      <option name="lastModifiedDate" value="1491395946000" />
+    </index-record>
+    <index-record>
+      <option name="fileId" value="01p58000008jQObAAM" />
+      <option name="fileName" value="classes/TwilioQueue.cls" />
+      <option name="lastModifiedDate" value="1491395947000" />
+    </index-record>
+    <index-record>
+      <option name="fileId" value="01p58000008jQNjAAM" />
+      <option name="fileName" value="classes/ForgotPasswordControllerTest.cls" />
+      <option name="lastModifiedDate" value="1491395942000" />
+    </index-record>
+    <index-record>
+      <option name="fileId" value="01p58000004k7YTAAY" />
+      <option name="fileName" value="classes/TestUpdates.cls" />
+      <option name="lastModifiedDate" value="1491395945000" />
+    </index-record>
+    <index-record>
+      <option name="fileId" value="01p58000004k7YQAAY" />
+      <option name="fileName" value="classes/TestPartTwo.cls" />
+      <option name="lastModifiedDate" value="1491395944000" />
+    </index-record>
+    <index-record>
+      <option name="fileId" value="01p58000004k7Y4AAI" />
+      <option name="fileName" value="classes/CalcoloPrelievi.cls" />
+      <option name="lastModifiedDate" value="1491395942000" />
+    </index-record>
+    <index-record>
+      <option name="fileId" value="01p58000008jQNxAAM" />
+      <option name="fileName" value="classes/TwilioAPI.cls" />
+      <option name="lastModifiedDate" value="1491395945000" />
+    </index-record>
+    <index-record>
+      <option name="fileId" value="01p58000008jQO8AAM" />
+      <option name="fileName" value="classes/TwilioCallerIdValidation.cls" />
+      <option name="lastModifiedDate" value="1491395945000" />
+    </index-record>
+    <index-record>
+      <option name="fileId" value="01p58000008jQO0AAM" />
+      <option name="fileName" value="classes/TwilioApplication.cls" />
+      <option name="lastModifiedDate" value="1491395945000" />
+    </index-record>
+    <index-record>
+      <option name="fileId" value="01p58000004k7YFAAY" />
+      <option name="fileName" value="classes/MailMemoParto.cls" />
+      <option name="lastModifiedDate" value="1491395943000" />
+    </index-record>
+    <index-record>
+      <option name="fileId" value="01p58000008jQNpAAM" />
+      <option name="fileName" value="classes/ReassignAfterConversion.cls" />
+      <option name="lastModifiedDate" value="1491395944000" />
+    </index-record>
+    <index-record>
+      <option name="fileId" value="01p58000008jQNmAAM" />
+      <option name="fileName" value="classes/MyProfilePageController.cls" />
+      <option name="lastModifiedDate" value="1491395943000" />
+    </index-record>
+    <index-record>
+      <option name="fileId" value="01p58000008jQOIAA2" />
+      <option name="fileName" value="classes/TwilioIncomingPhoneNumberList.cls" />
+      <option name="lastModifiedDate" value="1491395946000" />
+    </index-record>
+    <index-record>
+      <option name="fileId" value="01p58000008jQPEAA2" />
+      <option name="fileName" value="classes/Twilio_TestConnectApps.cls" />
+      <option name="lastModifiedDate" value="1491395949000" />
+    </index-record>
+    <index-record>
+      <option name="fileId" value="01p58000008jQO7AAM" />
+      <option name="fileName" value="classes/TwilioCallList.cls" />
+      <option name="lastModifiedDate" value="1491395945000" />
+    </index-record>
+    <index-record>
+      <option name="fileId" value="01p58000008jQP7AAM" />
+      <option name="fileName" value="classes/TwilioTwiML.cls" />
+      <option name="lastModifiedDate" value="1491395948000" />
+    </index-record>
+    <index-record>
+      <option name="fileId" value="01p58000008jQP8AAM" />
+      <option name="fileName" value="classes/Twilio_TestAPI.cls" />
+      <option name="lastModifiedDate" value="1491395948000" />
+    </index-record>
+    <index-record>
+      <option name="fileId" value="01p58000008jQOFAA2" />
+      <option name="fileName" value="classes/TwilioConnectApp.cls" />
+      <option name="lastModifiedDate" value="1491395946000" />
+    </index-record>
+    <index-record>
+      <option name="fileId" value="01p58000004k7Y2AAI" />
+      <option name="fileName" value="classes/AppSetup.cls" />
+      <option name="lastModifiedDate" value="1492682167000" />
+    </index-record>
+    <index-record>
+      <option name="fileId" value="01p58000008jQPSAA2" />
+      <option name="fileName" value="classes/Twilio_TestSms.cls" />
+      <option name="lastModifiedDate" value="1491395949000" />
+    </index-record>
+    <index-record>
+      <option name="fileId" value="01p58000008jQNkAAM" />
+      <option name="fileName" value="classes/MassReassignOpportunitiesController.cls" />
+      <option name="lastModifiedDate" value="1529734434000" />
+    </index-record>
+    <index-record>
+      <option name="fileId" value="01p58000008jQP1AAM" />
+      <option name="fileName" value="classes/TwilioTRWorkflow.cls" />
+      <option name="lastModifiedDate" value="1491395948000" />
+    </index-record>
+    <index-record>
+      <option name="fileId" value="01p58000008jQNlAAM" />
+      <option name="fileName" value="classes/MergeOpportunitiesController.cls" />
+      <option name="lastModifiedDate" value="1491412565000" />
+    </index-record>
+    <index-record>
+      <option name="fileId" value="01p58000008jQONAA2" />
+      <option name="fileName" value="classes/TwilioMedia.cls" />
+      <option name="lastModifiedDate" value="1491395946000" />
+    </index-record>
+    <index-record>
+      <option name="fileId" value="01p58000008jQOlAAM" />
+      <option name="fileName" value="classes/TwilioShortCodeList.cls" />
+      <option name="lastModifiedDate" value="1491395947000" />
+    </index-record>
+    <index-record>
+      <option name="fileId" value="01p58000004k7YBAAY" />
+      <option name="fileName" value="classes/MailCertificatoGemellare.cls" />
+      <option name="lastModifiedDate" value="1491395942000" />
+    </index-record>
+    <index-record>
+      <option name="fileId" value="01p58000008jQNfAAM" />
+      <option name="fileName" value="classes/AssegnaListino.cls" />
+      <option name="lastModifiedDate" value="1491395941000" />
+    </index-record>
+    <index-record>
+      <option name="fileId" value="01p58000008jQP4AAM" />
+      <option name="fileName" value="classes/TwilioTRWorkspaceList.cls" />
+      <option name="lastModifiedDate" value="1491395948000" />
+    </index-record>
+    <index-record>
+      <option name="fileId" value="01p58000008jQ9KAAU" />
+      <option name="fileName" value="classes/SiteLoginController.cls" />
+      <option name="lastModifiedDate" value="1491395944000" />
+    </index-record>
+    <index-record>
+      <option name="fileId" value="01p58000008jQ9JAAU" />
+      <option name="fileName" value="classes/ForgotPasswordController.cls" />
+      <option name="lastModifiedDate" value="1491395942000" />
+    </index-record>
+    <index-record>
+      <option name="fileId" value="01p58000004k7YCAAY" />
+      <option name="fileName" value="classes/MailConfermaCrioconservazione.cls" />
+      <option name="lastModifiedDate" value="1491395943000" />
+    </index-record>
+    <index-record>
+      <option name="fileId" value="01p58000008jQOLAA2" />
+      <option name="fileName" value="classes/TwilioLookupsRestClient.cls" />
+      <option name="lastModifiedDate" value="1491395946000" />
+    </index-record>
+    <index-record>
+      <option name="fileId" value="01p58000004k7YEAAY" />
+      <option name="fileName" value="classes/MailGGAnalisi.cls" />
+      <option name="lastModifiedDate" value="1491395943000" />
+    </index-record>
+    <index-record>
+      <option name="fileId" value="01p58000008jQPJAA2" />
+      <option name="fileName" value="classes/Twilio_TestNotification.cls" />
+      <option name="lastModifiedDate" value="1491395949000" />
+    </index-record>
+    <index-record>
+      <option name="fileId" value="01p58000008jQOqAAM" />
+      <option name="fileName" value="classes/TwilioTRCapability.cls" />
+      <option name="lastModifiedDate" value="1492642296000" />
+    </index-record>
+    <index-record>
+      <option name="fileId" value="01p58000008jQOSAA2" />
+      <option name="fileName" value="classes/TwilioMessageList.cls" />
+      <option name="lastModifiedDate" value="1491395946000" />
+    </index-record>
+    <index-record>
+      <option name="fileId" value="01p58000008jQOVAA2" />
+      <option name="fileName" value="classes/TwilioNotificationList.cls" />
+      <option name="lastModifiedDate" value="1491395946000" />
+    </index-record>
+    <index-record>
+      <option name="fileId" value="01p58000004k7YJAAY" />
+      <option name="fileName" value="classes/MailRestituzioneKit.cls" />
+      <option name="lastModifiedDate" value="1491395943000" />
+    </index-record>
+    <index-record>
+      <option name="fileId" value="01p58000004k7YRAAY" />
+      <option name="fileName" value="classes/TestSchedules.cls" />
+      <option name="lastModifiedDate" value="1491395944000" />
+    </index-record>
+    <index-record>
+      <option name="fileId" value="01p58000008lE5cAAE" />
+      <option name="fileName" value="classes/GeneticaWS.cls" />
+      <option name="lastModifiedDate" value="1491395942000" />
+    </index-record>
+    <index-record>
+      <option name="fileId" value="01p58000008jQNoAAM" />
+      <option name="fileName" value="classes/PraticaWS.cls" />
+      <option name="lastModifiedDate" value="1532787607000" />
+    </index-record>
+    <index-record>
+      <option name="fileId" value="01p58000008jQOPAA2" />
+      <option name="fileName" value="classes/TwilioMember.cls" />
+      <option name="lastModifiedDate" value="1491395946000" />
+    </index-record>
+    <index-record>
+      <option name="fileId" value="01p58000004k7YVAAY" />
+      <option name="fileName" value="classes/UpdateStatusReferenti.cls" />
+      <option name="lastModifiedDate" value="1491395949000" />
+    </index-record>
+    <index-record>
+      <option name="fileId" value="01p58000008jQO2AAM" />
+      <option name="fileName" value="classes/TwilioAuthorizedConnectApp.cls" />
+      <option name="lastModifiedDate" value="1491395945000" />
+    </index-record>
+    <index-record>
+      <option name="fileId" value="01p58000004k7Y7AAI" />
+      <option name="fileName" value="classes/Mail1InvioCertificato.cls" />
+      <option name="lastModifiedDate" value="1491395942000" />
+    </index-record>
+    <index-record>
+      <option name="fileId" value="01p58000008jQOcAAM" />
+      <option name="fileName" value="classes/TwilioQueueList.cls" />
+      <option name="lastModifiedDate" value="1491395947000" />
+    </index-record>
+    <index-record>
+      <option name="fileId" value="01p58000008jQPCAA2" />
+      <option name="fileName" value="classes/Twilio_TestCapability.cls" />
+      <option name="lastModifiedDate" value="1491395949000" />
+    </index-record>
+    <index-record>
+      <option name="fileId" value="01p58000008jQP9AAM" />
+      <option name="fileName" value="classes/Twilio_TestAccounts.cls" />
+      <option name="lastModifiedDate" value="1491395948000" />
+    </index-record>
+    <index-record>
+      <option name="fileId" value="01p58000004k7YHAAY" />
+      <option name="fileName" value="classes/MailRecessoKitIntegro.cls" />
+      <option name="lastModifiedDate" value="1491395943000" />
+    </index-record>
+    <index-record>
+      <option name="fileId" value="01p58000008jQOeAAM" />
+      <option name="fileName" value="classes/TwilioRecordingList.cls" />
+      <option name="lastModifiedDate" value="1491395947000" />
+    </index-record>
+    <index-record>
+      <option name="fileId" value="01p58000008jQP2AAM" />
+      <option name="fileName" value="classes/TwilioTRWorkflowList.cls" />
+      <option name="lastModifiedDate" value="1491395948000" />
+    </index-record>
+    <index-record>
+      <option name="fileId" value="01p58000008jQPNAA2" />
+      <option name="fileName" value="classes/Twilio_TestRecording.cls" />
+      <option name="lastModifiedDate" value="1491395949000" />
+    </index-record>
+    <index-record>
+      <option name="fileId" value="01p58000008jQOBAA2" />
+      <option name="fileName" value="classes/TwilioClient.cls" />
+      <option name="lastModifiedDate" value="1491395946000" />
+    </index-record>
+    <index-record>
+      <option name="fileId" value="01p58000008jQO6AAM" />
+      <option name="fileName" value="classes/TwilioCall.cls" />
+      <option name="lastModifiedDate" value="1491395945000" />
+    </index-record>
+    <index-record>
+      <option name="fileId" value="01p58000008jQODAA2" />
+      <option name="fileName" value="classes/TwilioConference.cls" />
+      <option name="lastModifiedDate" value="1491395946000" />
+    </index-record>
+    <index-record>
+      <option name="fileId" value="01p58000004k7YUAAY" />
+      <option name="fileName" value="classes/UpdateStatusAccount.cls" />
+      <option name="lastModifiedDate" value="1491395949000" />
+    </index-record>
+    <index-record>
+      <option name="fileId" value="01p58000008jQPQAA2" />
+      <option name="fileName" value="classes/Twilio_TestSandbox.cls" />
+      <option name="lastModifiedDate" value="1491395949000" />
+    </index-record>
+    <index-record>
+      <option name="fileId" value="01p58000008jQOsAAM" />
+      <option name="fileName" value="classes/TwilioTRReservationList.cls" />
+      <option name="lastModifiedDate" value="1491395948000" />
+    </index-record>
+    <index-record>
+      <option name="fileId" value="01p58000008jQPKAA2" />
+      <option name="fileName" value="classes/Twilio_TestParser.cls" />
+      <option name="lastModifiedDate" value="1491395949000" />
+    </index-record>
+    <index-record>
+      <option name="fileId" value="01p58000008jQPMAA2" />
+      <option name="fileName" value="classes/Twilio_TestQueue.cls" />
+      <option name="lastModifiedDate" value="1491395949000" />
+    </index-record>
+    <index-record>
+      <option name="fileId" value="01p58000008jQPBAA2" />
+      <option name="fileName" value="classes/Twilio_TestCalls.cls" />
+      <option name="lastModifiedDate" value="1491395948000" />
+    </index-record>
+    <index-record>
+      <option name="fileId" value="01p58000008jQOGAA2" />
+      <option name="fileName" value="classes/TwilioConnectAppList.cls" />
+      <option name="lastModifiedDate" value="1491395946000" />
+    </index-record>
+    <index-record>
+      <option name="fileId" value="01p58000008jQNqAAM" />
+      <option name="fileName" value="classes/ResetFlagInvioGuida.cls" />
+      <option name="lastModifiedDate" value="1491395944000" />
+    </index-record>
+    <index-record>
+      <option name="fileId" value="01p58000008jQOvAAM" />
+      <option name="fileName" value="classes/TwilioTRTaskList.cls" />
+      <option name="lastModifiedDate" value="1491395948000" />
+    </index-record>
+    <index-record>
+      <option name="fileId" value="01p58000008jQPFAA2" />
+      <option name="fileName" value="classes/Twilio_TestHTTPMock.cls" />
+      <option name="lastModifiedDate" value="1491395949000" />
+    </index-record>
+    <index-record>
+      <option name="fileId" value="01p58000008jQNgAAM" />
+      <option name="fileName" value="classes/ChangePasswordController.cls" />
+      <option name="lastModifiedDate" value="1491395942000" />
+    </index-record>
+    <index-record>
+      <option name="fileId" value="01p58000008jQOzAAM" />
+      <option name="fileName" value="classes/TwilioTRWorker.cls" />
+      <option name="lastModifiedDate" value="1491395948000" />
+    </index-record>
+    <index-record>
+      <option name="fileId" value="01p58000008jQOwAAM" />
+      <option name="fileName" value="classes/TwilioTRTaskQueue.cls" />
+      <option name="lastModifiedDate" value="1491395948000" />
+    </index-record>
+    <index-record>
+      <option name="fileId" value="01p58000008jQNuAAM" />
+      <option name="fileName" value="classes/TestDHLController.cls" />
+      <option name="lastModifiedDate" value="1491395944000" />
+    </index-record>
+    <index-record>
+      <option name="fileId" value="01p58000004k7YPAAY" />
+      <option name="fileName" value="classes/TestImpostaAgente.cls" />
+      <option name="lastModifiedDate" value="1491395944000" />
+    </index-record>
+    <index-record>
+      <option name="fileId" value="01p58000008jQOEAA2" />
+      <option name="fileName" value="classes/TwilioConferenceList.cls" />
+      <option name="lastModifiedDate" value="1491395946000" />
+    </index-record>
+    <index-record>
+      <option name="fileId" value="01p58000008jQPLAA2" />
+      <option name="fileName" value="classes/Twilio_TestPhoneNumbers.cls" />
+      <option name="lastModifiedDate" value="1491395949000" />
+    </index-record>
+    <index-record>
+      <option name="fileId" value="01p58000008jQOkAAM" />
+      <option name="fileName" value="classes/TwilioShortCode.cls" />
+      <option name="lastModifiedDate" value="1491395947000" />
+    </index-record>
+    <index-record>
+      <option name="fileId" value="01p58000008jQOUAA2" />
+      <option name="fileName" value="classes/TwilioNotification.cls" />
+      <option name="lastModifiedDate" value="1491395946000" />
+    </index-record>
+    <index-record>
+      <option name="fileId" value="01p58000004k7YGAAY" />
+      <option name="fileName" value="classes/MailProgrammaAmico.cls" />
+      <option name="lastModifiedDate" value="1491395943000" />
+    </index-record>
+    <index-record>
+      <option name="fileId" value="01p58000004k7YLAAY" />
+      <option name="fileName" value="classes/ScheduledWorkflow.cls" />
+      <option name="lastModifiedDate" value="1491395944000" />
+    </index-record>
+    <index-record>
+      <option name="fileId" value="01p58000004k7Y3AAI" />
+      <option name="fileName" value="classes/AssegnaPuntiConsiglio.cls" />
+      <option name="lastModifiedDate" value="1491395941000" />
+    </index-record>
+    <index-record>
+      <option name="fileId" value="01p58000004k7YDAAY" />
+      <option name="fileName" value="classes/MailFinePagamento.cls" />
+      <option name="lastModifiedDate" value="1491395943000" />
+    </index-record>
+    <index-record>
+      <option name="fileId" value="01p58000008jQO3AAM" />
+      <option name="fileName" value="classes/TwilioAuthorizedConnectAppList.cls" />
+      <option name="lastModifiedDate" value="1491395945000" />
+    </index-record>
+    <index-record>
+      <option name="fileId" value="01p58000004k7Y8AAI" />
+      <option name="fileName" value="classes/MailAttivazioneCorriere.cls" />
+      <option name="lastModifiedDate" value="1491395942000" />
+    </index-record>
+    <index-record>
+      <option name="fileId" value="01p58000004k7YNAAY" />
+      <option name="fileName" value="classes/TestCalcoloPrelievi.cls" />
+      <option name="lastModifiedDate" value="1529661254000" />
+    </index-record>
+    <index-record>
+      <option name="fileId" value="01p58000008jQOOAA2" />
+      <option name="fileName" value="classes/TwilioMediaList.cls" />
+      <option name="lastModifiedDate" value="1491395946000" />
+    </index-record>
+    <index-record>
+      <option name="fileId" value="01p58000008jQORAA2" />
+      <option name="fileName" value="classes/TwilioMessage.cls" />
+      <option name="lastModifiedDate" value="1491395946000" />
+    </index-record>
+    <index-record>
+      <option name="fileId" value="01p58000008jQNwAAM" />
+      <option name="fileName" value="classes/TestUtilities.cls" />
+      <option name="lastModifiedDate" value="1491395945000" />
+    </index-record>
+    <index-record>
+      <option name="fileId" value="01p58000008jQOAAA2" />
+      <option name="fileName" value="classes/TwilioCapabilityPolicy.cls" />
+      <option name="lastModifiedDate" value="1491395946000" />
+    </index-record>
+    <index-record>
+      <option name="fileId" value="01p58000008jQOaAAM" />
+      <option name="fileName" value="classes/TwilioParticipantList.cls" />
+      <option name="lastModifiedDate" value="1491395947000" />
+    </index-record>
+    <index-record>
+      <option name="fileId" value="01p58000008jQP6AAM" />
+      <option name="fileName" value="classes/TwilioTranscriptionList.cls" />
+      <option name="lastModifiedDate" value="1491395948000" />
+    </index-record>
+    <index-record>
+      <option name="fileId" value="01p58000008jQOpAAM" />
+      <option name="fileName" value="classes/TwilioTRActivitiesList.cls" />
+      <option name="lastModifiedDate" value="1491395947000" />
+    </index-record>
+    <index-record>
+      <option name="fileId" value="01p58000008jQP5AAM" />
+      <option name="fileName" value="classes/TwilioTranscription.cls" />
+      <option name="lastModifiedDate" value="1491395948000" />
+    </index-record>
+    <index-record>
+      <option name="fileId" value="01p58000008jQOWAA2" />
+      <option name="fileName" value="classes/TwilioOutgoingCallerId.cls" />
+      <option name="lastModifiedDate" value="1491395947000" />
+    </index-record>
+    <index-record>
+      <option name="fileId" value="01p58000008jQPOAA2" />
+      <option name="fileName" value="classes/Twilio_TestRest.cls" />
+      <option name="lastModifiedDate" value="1491395949000" />
+    </index-record>
+    <index-record>
+      <option name="fileId" value="01p58000008lE5eAAE" />
+      <option name="fileName" value="classes/WebForms.cls" />
+      <option name="lastModifiedDate" value="1492763127000" />
+    </index-record>
+    <index-record>
+      <option name="fileId" value="01p58000008jQO1AAM" />
+      <option name="fileName" value="classes/TwilioApplicationList.cls" />
+      <option name="lastModifiedDate" value="1491395945000" />
+    </index-record>
+    <index-record>
+      <option name="fileId" value="01p58000008jQOfAAM" />
+      <option name="fileName" value="classes/TwilioResource.cls" />
+      <option name="lastModifiedDate" value="1491395947000" />
+    </index-record>
+    <index-record>
+      <option name="fileId" value="01p58000008jQPRAA2" />
+      <option name="fileName" value="classes/Twilio_TestShortCode.cls" />
+      <option name="lastModifiedDate" value="1491395949000" />
+    </index-record>
+    <index-record>
+      <option name="fileId" value="01p58000008jQPTAA2" />
+      <option name="fileName" value="classes/Twilio_TestTwiML.cls" />
+      <option name="lastModifiedDate" value="1491395949000" />
+    </index-record>
+    <index-record>
+      <option name="fileId" value="01p58000008jQP3AAM" />
+      <option name="fileName" value="classes/TwilioTRWorkspace.cls" />
+      <option name="lastModifiedDate" value="1491395948000" />
+    </index-record>
+    <index-record>
+      <option name="fileId" value="01p58000004k7YMAAY" />
+      <option name="fileName" value="classes/ScheduledWorkflowMonthly.cls" />
+      <option name="lastModifiedDate" value="1491395944000" />
+    </index-record>
+    <index-record>
+      <option name="fileId" value="01p58000008jQOCAA2" />
+      <option name="fileName" value="classes/TwilioClientController.cls" />
+      <option name="lastModifiedDate" value="1491395946000" />
+    </index-record>
+    <index-record>
+      <option name="fileId" value="01p58000008jQOTAA2" />
+      <option name="fileName" value="classes/TwilioNameValuePair.cls" />
+      <option name="lastModifiedDate" value="1491395946000" />
+    </index-record>
+    <index-record>
+      <option name="fileId" value="01p58000008jQPDAA2" />
+      <option name="fileName" value="classes/Twilio_TestConference.cls" />
+      <option name="lastModifiedDate" value="1491395949000" />
+    </index-record>
+    <index-record>
+      <option name="fileId" value="01p58000008jQOnAAM" />
+      <option name="fileName" value="classes/TwilioSmsList.cls" />
+      <option name="lastModifiedDate" value="1491395947000" />
+    </index-record>
+  </component>
+</project>

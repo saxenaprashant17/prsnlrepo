@@ -1,0 +1,17 @@
+<apex:page standardController="Opportunity" extensions="MergeOpportunitiesController"
+    tabStyle="Opportunity">
+
+    <apex:form >
+        <apex:pageBlock title="Scegli con quale Opportunità unire {!Opportunity.Name}">
+            <apex:pageblocktable value="{!availableOpportunities}" var="item">
+                <apex:column headerValue="Name">
+                    <apex:commandLink action="{!mergeOpportunities}">
+                        <apex:param name="opp2Id" value="{!item.Id}" assignTo="{!opp2Id}"/>
+                        <apex:OutputText value="{!item.Name}"/>
+                    </apex:commandLink>
+                </apex:column>
+            </apex:pageblocktable> 
+            <!-- <apex:commandLink action="{!save}" value="Save" id="theCommandLink"/>-->
+        </apex:pageBlock>
+    </apex:form>
+</apex:page>
